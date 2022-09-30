@@ -1,3 +1,0 @@
-**Визуализация датасет
-
-На дешборд [NPS_dashboard](https://datalens.yandex/2acmdjktjoyut)
